@@ -12,3 +12,11 @@ This academic project focuses on predicting earthquake occurrences using histori
 -Train machine learning models for prediction
 
 -Evaluate model performance using accuracy metrics
+
+## Technologies Used
+Python
+NumPy
+Pandas
+Matplotlib & Seaborn
+Scikit-learn
+Jupyter Notebook
