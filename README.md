@@ -6,6 +6,9 @@ This academic project focuses on predicting earthquake occurrences using histori
 
 ## Objectives:
 -Analyze historical earthquake data
+
 -Perform data preprocessing and feature selection
+
 -Train machine learning models for prediction
+
 -Evaluate model performance using accuracy metrics
