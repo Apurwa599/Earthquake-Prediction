@@ -18,3 +18,17 @@ This academic project focuses on predicting earthquake occurrences using histori
 
 ## Dataset Description:
  The dataset contains historical earthquake records including features such as magnitude, depth, latitude, longitude, and time-related attributes. The data is preprocessed    to handle missing values and improve model performance.
+
+## Methodology:
+Data loading and cleaning
+
+Exploratory Data Analysis (EDA)
+
+Feature selection and scaling
+
+Model training using machine learning algorithms
+
+Model evaluation and result analysis
+
+## Conclusion:
+This project demonstrates how machine learning can be applied to earthquake prediction. While accurate earthquake forecasting remains challenging, data-driven models can help identify patterns and improve early warning research.
