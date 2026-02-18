@@ -15,3 +15,6 @@ This academic project focuses on predicting earthquake occurrences using histori
 
 ## Technologies Used
  Python,NumPy,Pandas Matplotlib & Seaborn,Scikit-learn,Jupyter Notebook
+
+##📂 Dataset Description
+ The dataset contains historical earthquake records including features such as magnitude, depth, latitude, longitude, and time-related attributes. The data is preprocessed    to handle missing values and improve model performance.
